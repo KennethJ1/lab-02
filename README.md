@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** `<Kenneth Joseph>`
-- **CCID:** `<Kmjosep1>`
+- **CCID:** `<kmjosep1>`
 
 ## References and Resources
 
